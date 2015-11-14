@@ -11,9 +11,9 @@ def read(*parts):
 
 
 setup(
-    author="",
-    author_email="",
-    description="",
+    author="Patrick Altman",
+    author_email="paltman@eldarion.com",
+    description="a companion app to eldarion-ajax providing base views and mixins to make hooking up views in your project even easier",
     name="django-eldarion-ajax",
     long_description=read("README.rst"),
     version="0.1",
