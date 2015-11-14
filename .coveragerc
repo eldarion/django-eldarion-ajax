@@ -1,0 +1,7 @@
+[run]
+source = eldarion
+omit = eldarion/ajax/tests/*,eldarion/ajax/admin.py
+branch = 1
+
+[report]
+omit = eldarion/ajax/tests/*,eldarion/ajax/admin.py

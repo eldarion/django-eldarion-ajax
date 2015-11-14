@@ -1,0 +1,5 @@
+include AUTHORS
+include LICENSE
+include README.rst
+recursive-include eldarion/ajax/static *
+recursive-include eldarion/ajax/templates *
